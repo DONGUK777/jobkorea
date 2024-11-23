@@ -1,0 +1,13 @@
+{
+    "s3 url path": null,
+    "site": "jobkorea",
+    "id": "45870932",
+    "collection_date": "2024-11-23",
+    "deadline": "2024-12-05",
+    "search": "데이터 엔지니어",
+    "company": "㈜잉카인터넷",
+    "post title": "㈜잉카인터넷\n기업인증 완료\n관심기업\n관심기업 추가하고 채용소식 받기\n닫기\n[nProtect] 백엔드 개발자 (경력) - 주4.5일제",
+    "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/45870932?Oem_Code=C1&logpath=1&stext=%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4&listno=1264",
+    "image": [],
+    "text": "nProtect 백엔드 개발자 \n\nnProtect 백엔드 개발자\n\n[합류하게 될 팀에 대해 알려드려요]\n? NOS 웹서비스를 유지보수하고 지속적으로 업데이트 되는 기능들을 개발해요.\n? 정확성, 확장성 및 고성능을 갖춘 시스템을 개발해요.\n? 어플리케이션(윈도우/리눅스/모바일) 엔지니어들과 소통하고 협력해요.\n\n[이런 기술들을 사용하고 있어요]\n? Java, Gradle/Maven\n? Spring Mvc, Spring Webflux, Spring Boot\n? JPA/Hibernate, MySQL\n? AWS EC2, ELB, S3, RDS, MSK(Kafka), ElastiCache(Redis), OpenSearch(ELK)\n\n[이런 일을 함께 해요]\n? API 기획 명세서를 작성하고 관리해요.\n? 지속적으로 쉽고 빠르게 개발할 수 있도록 코드 모듈화, 퀄리티 향상에 앞장서요.\n? 무중단 서비스가 제공될 수 있도록 고가용성을 갖춘 서버를 비용 최적화하여 개발하고 운영해요.\n? RDBMS, NoSQL, ELK, MQ 등을 활용하여 데이터를 관리 및 가공해요.\n? 키보드보안/가상키패드등 고객사에 제공되는 SDK를 개발하고 관리해요.\n\n[이런 분이 필요해요]\n? JAVA로 Spring Framework(Spring Boot)기반의 서비스를 5년이상 개발한 경험이 있는 분이 필요해요.\n? JPA를 활용하여 서비스를 개발해보신 경험이 필요해요.\n? HTTP, RESTAPI, OAuth 프로토콜에 대한 이해가 있으신 분이 필요해요.\n? MySQL 또는 MariaDB 같은 RDBMS 활용에 능숙하신 분이 필요해요.\n? Redis/Kafka/ELK를 다뤄본 경험이 있으신 분이면 좋아요.\n? Cloud Infra(AWS)에 대한 이해 및 경험이 있으신 분이면 좋아요.\n\n[이런분이면 더 좋아요]\n? 확장성, 재사용성을 고민하며 개발하고, 이러한 문화와 개발 환경 구축에 관심이 많으신 분이면 좋아요.\n? 여러가지 상황을 깊게 고려하여 안정성 있는 개발을 추구하는 분이면 좋아요.\n? 성장을 위해 생각 및 노력을 하는분이면 좋아요.\n? 코드 리뷰 및 설계문서 작성 등 개발 조직의 문화에 관심이 있는 분이면 좋아요.\n? 오픈소스 소프트웨어를 사용하여 분산 아키텍처 시스템에 대한 설계 및 개발경험이 있으신 분이면 좋아요.\n? React/Vue & JavaScript/TypeScript 개발 경력 3년 이상의 경험이 있으시면 좋아요."
+}

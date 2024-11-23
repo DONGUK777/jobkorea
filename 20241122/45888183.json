@@ -1,0 +1,13 @@
+{
+    "s3 url path": "test/45888183.json",
+    "site": "jobkorea",
+    "id": "45888183",
+    "collection_date": "2024-11-22",
+    "deadline": "2024-12-07",
+    "search": "데이터 엔지니어",
+    "company": "슈프리마",
+    "post title": "슈프리마\n기업인증 완료\n관심기업\n관심기업 추가하고 채용소식 받기\n닫기\n[슈프리마] BioSign 알고리즘 개발자",
+    "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/45888183?Oem_Code=C1&logpath=1&stext=%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4&listno=669",
+    "image": [],
+    "text": "BioSign 알고리즘 개발자 모집\n\n[주요 업무]\nBioSign solution 개발\n      - Image enhancement algorithm : statistical image processing + neural processing\n      - Feature extraction and matching algorithm : statistical pattern recognition + neural processing\n      - Anti-spoof fingerprint algorithm by neural network\n      - Algorithm optimization ( speed, memory, arm-neon ) for embedded platform with TZ (Trust zone)\n      - SW SDK / API development and management\nFingerprint AI solution 개발\n    - developing fingerprint recognition algorithms for BioStarTM and edge AI applications\n    - Fingerprint minutiae extraction and matching algorithm\n    - Anti-spoof fingerprint algorithm by neural network\n    - Algorithm optimization (multicore processing) for various embedded platforms\n\n[자격 요건]\nImage processing / Pattern recognition / Computer vision 분야 석사/박사 학위 소지자\nDeep learning framework ( Tensorflow, Pytorch )을 통한 알고리즘 연구 개발 역량 필수\n상기 업무 내용과 관련 있는 논문 발표 혹은 프로젝트 진행 경험\n\n[우대 사항]\n각종 challenge, competition 입상 경력\n소프트웨어 엔지니어 역량 : C/C++, AWS, CI/CD 등에 경험\n최신 논문 및 기술을 빠르게 습득하고 필드 상황에 맞게 알고리즘을 수정 및 개선해 본 경험\n\n솔루션개발실\n[부서 소개]\n지문 인식과 관련된 다양한 솔루션을 연구 개발하여\n슈프리마 제품에 적용하거나직접 제품화하는 일을 해요.\n\n[부서 구성]\n전문 분야에 따라 알고리즘(영상처리,패턴인식,ML) 전문가, HW 전문가,\nFW 전문가, 데이터 수집 및 검증 전문가로 구성되어 있습니다. \n스마트폰 지문인식 알고리즘인 BioSign, 지문인식 모듈 제품인 SFM,\n슈프리마 지문인식 단말기에 적용되는 지문 인식 알고리즘 SFCoreA,\n위조지문 식별 알고리즘 SDCoreA에 대한 연구와 개발을 수행하고 있습니다.\n\n[우리 부서는 이렇게 일해요!]\n프로젝트 중심으로 일합니다. \n    -  PL을 중심으로 프로젝트 구성원들이 목표 달성을 위해 같이 노력하고\n       프로젝트의 성과에 따라 공정하게 평가받습니다.\n서로 도우면서 일 합니다. \n    - 서로 소통하면서 돕는 것이 부서의 제1원칙입니다.\n주 1회 부서 전체 미팅을 진행 하고 공유합니다. \n    - 업무 계획과 성과 관리를 도와주는 R&D 프로젝트 관리 시스템을 전사적으로 갖추고 있고\n      이를 통해 개인 업무 관리와프로젝트 성과 관리가 이루어집니다.\n세계 최고를 목표로 도전적으로 목표를 설정하고이를 달성하기 위해 치열하게 노력합니다.\n\n[전형절차]\n서류전형→1차 면접(비대면/대면)→인성검사→2차 면접(대면)→처우 협의 후 최종 합격\n1차 면접시 직무 PT가 진행될 수 있음.\n\n* 직무에 따라 1차면접시 직무PT가 진행될 수 있습니다. (서류합격시 별도안내)\n* 상황에 따라 과제 또는 추가인터뷰, 평판조회 전형이 추가될 수 있습니다.\n* 각 전형에서 허위 사실이나 부정행위 발견 시 즉시 영입 절차가 중단/취소될 수 있습니다.\n\n슈프리마 홈페이지 : 슈프리마 | Security & Biometrics (supremainc.com)\n슈프리마 블로그 : 슈프리마 뉴스, 슈프리마 : 네이버 블로그 (naver.com)\n슈프리마 유튜브 : (1) Suprema - YouTube"
+}

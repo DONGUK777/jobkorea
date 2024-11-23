@@ -1,0 +1,13 @@
+{
+    "s3 url path": "test/45921018.json",
+    "site": "jobkorea",
+    "id": "45921018",
+    "collection_date": "2024-11-22",
+    "deadline": "2024-12-13",
+    "search": "데이터 엔지니어",
+    "company": "㈜휴빌론",
+    "post title": "㈜휴빌론\n기업인증 완료\n관심기업\n관심기업 추가하고 채용소식 받기\n닫기\nLBS 서비스 개발자 모집",
+    "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/45921018?Oem_Code=C1&logpath=1&stext=%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4&listno=602",
+    "image": [],
+    "text": "LBS 서비스 개발자 모집\n㈜휴빌론은 2003년에 설립된 회사로 자본금 7억 2,500만원, 매출액 80억, 사원수 60명 규모의 고용노동부에서 선정한 강소기업입니다. 서울 서초구 강남대로 291 (서초동, 남강빌딩)에 위치하고 있으며, LBS 및 RTLS 사업, 자율주행 및 빅데이터 관련 사업, 디지털 에이젼시, UI/UX을 하고 있습니다.\n포지션 및 자격요건\n포지션\n( 1명 )\n\n자격요건\nㆍ학력 : 학력무관\n    - GIS DB 서비스 개발 경험 (PostGIS 연동, GeoServer REST API 등)\n     -  데이터 스트리밍 및 분할 처리 (LiDAR 데이터 처리)\n     -  LAS 파일 포맷 처리 경험 (PDAL, LASTools 등)\n     -  GeoServer 운용 경험 (시각화, 사용자 권한 관리, 외부 데이터 연동)\n\n우대사항\n     -  정밀지도 데이터 연계/처리 경험 (GeoServer 확장 기능, SHP / LAS 데이터 처리)\n     -  데이터 전처리 및 분석 경험 (필터링, 노이즈 제거 등)\n     -  대용량 포인트 클라우드 데이터 처리 경험 (PDAL 등)\n     -  3D 라이브러리 활용 개발 경험 (WebGL/Three.js 등)\n     -  GIS 프레임워크 활용 개발 경험 (OpenLayers 등)\n     -  클라우드 환경에서의 데이터 처리 경험 (HDFS, Amazon S3 등 활용)\n     -  ExtJS 프레임워크 활용 개발 경험\n\n\n전형절차\nㆍ서류전형 > 1차면접 > 2차면접 > 임원면접 > 최종합격\nㆍ면접일정은 추후 통보됩니다.\n\n유의사항\nㆍ허위사실이 발견될 경우 채용이 취소될 수 있습니다."
+}

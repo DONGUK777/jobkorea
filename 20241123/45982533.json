@@ -1,0 +1,13 @@
+{
+    "s3 url path": null,
+    "site": "jobkorea",
+    "id": "45982533",
+    "collection_date": "2024-11-23",
+    "deadline": "2024-11-26",
+    "search": "데이터 엔지니어",
+    "company": "마이데이터",
+    "post title": "마이데이터\n기업인증 완료\n관심기업\n관심기업 추가하고 채용소식 받기\n닫기\nAWS 클라우드 인프라 운영 TA 모집",
+    "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/45982533?Oem_Code=C1&logpath=1&stext=%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4&listno=672",
+    "image": [],
+    "text": "AWS 클라우드 인프라 운영 TA 모집\n마이데이터는 2021년에 설립된 회사로 자본금 1억원, 매출액 32억 710만원, 사원수 40명 규모의 고용노동부에서 선정한 강소기업입니다. 서울 서초구 강남대로53길 8 (서초동, 스타크강남빌딩)에 위치하고 있으며, 시스템 소프트웨어 개발 및 공급, 시스템 통합 구축 운영사업을 하고 있습니다.\n포지션 및 자격요건\n포지션\n( 3명 )\n업무장소\n- 경기도 용인시 기흥구 테라타워\n\n업무기간\n- 2024/12/01 ~ 2025/11/30 (1년)\n\n담당업무\n- 서비스 데스크 운영: Public Cloud 기반 서비스 운영 중 접수 되는 2선 문의 대응/조치 지원\n  ㄴ 당사 업무 처리(SR) 시스템과 연계되는 서비스 데스크 운영으로 사용자/운영자 요청(인시던트) 대응, CSP SR 접수 및 처리\n  ㄴ SR을 통한 구성 지원, 장애 관리 및 Trouble shooting 기술 지원(운영 자원 및 RHEL OS 포함)\n  ㄴ 당일 발생한 Critical Issue, Infra issue 등 중요 사항 Logging\n  ㄴ 일/주/월간 접수 내역, Issue 사항 등의 업무 내역을 문서화하여 유관 담당자 공유\n  ㄴ 월간 업무 리포팅: 월간 접수 내역, Critical 이슈, 월간 운영비용 분석 데이터 문서화 및 공유\n  ㄴ 운영 인력 및 계정 관리: Infra Administrator 그룹/개인 계정 관리, 인력 변동에 따른 발급/회수 프로세스 운영\n- 자원 운영: 고객사의 Platform과 연동되는 Public Cloud 기반 서비스 운영\n- 자원 운영 최적화/자동화 (Infrastructure as Code)\n  ㄴ 당 사에서 운영하는 Cloud의 CI/CD 환경에서 개발하여 제공하는 자동화 소스코드 테스트 및 운영 적용\n  ㄴ Multi-cloud 운영을 위한 자동화된 컴퓨팅 노드 Provisioning 솔루션 운영 (Terraform)\n  ㄴ RHEL(Redhat Enterprise Linux) 기반 HPC 환경에서 Simulation 서비스 용도 OS Setup/Config 자동화 솔루션 운영(Ansible)\n- 비용 최적화(FinOps)\n\n자격요건\nㆍAWS 클라우드 운영경험 필수\n\n전형절차\nㆍ서류전형 > 1차면접 > 2차면접 > 임원면접 > 최종합격\nㆍ면접일정은 추후 통보됩니다.\n\n유의사항\nㆍ허위사실이 발견될 경우 채용이 취소될 수 있습니다."
+}

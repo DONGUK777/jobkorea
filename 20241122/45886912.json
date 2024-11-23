@@ -1,0 +1,13 @@
+{
+    "s3 url path": "test/45886912.json",
+    "site": "jobkorea",
+    "id": "45886912",
+    "collection_date": "2024-11-22",
+    "deadline": "2024-12-31",
+    "search": "데이터 엔지니어",
+    "company": "신한DS",
+    "post title": "신한DS\n관심기업\n관심기업 추가하고 채용소식 받기\n닫기\n증권 마이데이터 API 개발/운영 경력직 채용",
+    "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/45886912?Oem_Code=C1&logpath=1&stext=%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4&listno=363",
+    "image": [],
+    "text": "증권 마이데이터 API 개발/운영 경력직 채용\n포지션 및 자격요건\n증권 마이데이터\nAPI 개발 \n담당업무\nㆍ마이데이터 웹 서비스를 위한 API 개발\nㆍ외부 데이터(마이데이터 표준 API)수집을 위한 API request 개발 및 서버 API 개발\n\n자격요건\nㆍ서비스 환경 : AWS EKS, AWS RDS(aurora-postgresql)\nㆍ개발 환경 : Spring F/W, Java8.0, Devon배치(LG CNS), AWS airflow 배치\nㆍ개발 Tool : eclips(서비스 개발), vscode(airflow 배치개발)\nㆍ운영 Tool : (모니터링)watap, (CI/CD) Jenkins/argoCD/kubernetes\nㆍTest Tool : (API)postman\nㆍ경력 7년 이상 ~ 12년 미만(과/차장급)\n\n모집요강\nㆍ해외여행에 결격 사유가 없는 자\nㆍ당사 규정상 결격 사유가 없는 자\nㆍ장애 및 국가 보훈 대상자는 관련 법에 의거 우대\n\n기타사항\nㆍ접수기간 : 2024.10.29(화) 00:00 ~ 2024.12.31(화) 23:59 (채용 시 마감)\nㆍ접수방법 : 당사 채용 홈페이지 참조\nㆍ자세한 상세요강은 반드시 채용 홈페이지에서 직접 확인해 주시기 바랍니다.\n\n\n   기업 채용 홈페이지 바로가기 click"
+}

@@ -1,0 +1,13 @@
+{
+    "s3 url path": null,
+    "site": "jobkorea",
+    "id": "45916567",
+    "collection time": "2024-11-21",
+    "deadline": "2024-12-12",
+    "search": "데이터 엔지니어",
+    "company": "㈜애큐온저축은행",
+    "post title": "㈜애큐온저축은행\n기업인증 완료\n관심기업\n관심기업 추가하고 채용소식 받기\n닫기\nProcess Innovation팀 / AI Engineer 모집",
+    "text": "Process Innovation팀 _ AI Engineer 모집\n㈜애큐온저축은행은 1972년에 설립된 회사로 자본금 1,247억원, 매출액 300억, 사원수 400명 규모의 중견기업입니다. 서울 강남구 선릉로 514 (삼성동, 성원빌딩)에 위치하고 있으며, 금융, 부동산 상호저축은행사업을 하고 있습니다.\n포지션 및 자격요건\nAI Engineer\n( ○명 )\n담당업무\nㆍ담당업무\n- KMS와 RAG 아키텍처 기반 sLLM 고도화 및 운영\n- RPA 및 생성형 AI를 활용한 업무자동화 개발\n- 오픈소스를 활용한 비정형 데이터 ML 파이프라인 구축\n- 각종 모델 서빙을 위한 백엔드 환경 구축 및 개발\n\n\n자격요건 (아래 중 2가지 이상 경험 보유)\n- ML/LLM Model을 위한 Data Interface 개발 경험\n- NLP 모델 운영 경험\n- sLLM FineTuning 및 RAG 아키텍처 개발 경험\n- RAG 아키텍처를 위한 문서 전처리 및 임베딩 고도화 경험\n- Inference를 위한 Serving 서버 구축 경험자\n- Restful API 설계/구현 경험\n- 테스트 환경 구축, 지속적인 구조 개선 경험\n\n우대사항\n- hybrid 업무 환경(on-premise/Cloud)에서의 설계 및 개발\n- GPU 기반 응용 모델 (딥러닝 모델 등) 상용 서비스 백엔드 서버 개발 및 운영 경험\n- Model Training, Deploy 환경 구축\n- Mlflow, 인공지능 모델 배포 CI/CD 파이프라인 설계 및 운영 경험\n- 응용 모델 자동 배포 및 업데이트 자동화 서비스 개발 경험\n- AI 모델 연구 결과를 서비스하기 위해 필요한 모델 코드 최적화 기술 연구 및 개발\n\n전형절차\nㆍ서류전형 > 1차면접 > 2차면접 > 임원면접 > 최종합격\nㆍ면접일정은 추후 통보됩니다.\n\n유의사항\nㆍ허위사실이 발견될 경우 채용이 취소될 수 있습니다.",
+    "image": [],
+    "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/45916567?Oem_Code=C1&logpath=1&stext=%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4&listno=1017"
+}

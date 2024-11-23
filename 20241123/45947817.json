@@ -1,0 +1,13 @@
+{
+    "s3 url path": null,
+    "site": "jobkorea",
+    "id": "45947817",
+    "collection_date": "2024-11-23",
+    "deadline": "2024-12-18",
+    "search": "데이터 엔지니어",
+    "company": "원프레딕트",
+    "post title": "원프레딕트\n기업인증 완료\n관심기업\n관심기업 추가하고 채용소식 받기\n닫기\nData Platform Engineer(전문연구요원)",
+    "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/45947817?Oem_Code=C1&logpath=1&stext=%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4&listno=463",
+    "image": [],
+    "text": "onepredict는 AI기반 솔루션을 통해 스마트팩토리 내 공정, 설비, 품질 이상으로 어려움을 겪는 고객의 문제를 선제적으로 해결합니다. guardians는 ‘자율과 책임’의 조직문화 속에서 ‘고객지향적’으로 일하는 문화를 추구하며, 개인의 성장이 곧 팀의 성장이라고 믿습니다. 산업 AI 시장의 선두주자로서 글로벌 유니콘 기업을 향해 달려가고 있는 저희와 함께 할 분을 찾습니다!\n\n\n*.팀 소개 및 문화\n- 원프레딕트의 사내 인프라와 제품에 MLOps 방법론을 적용하기 위한 데이터 플랫폼을 개발/구축/운영하는 팀입니다.\n- 기본적인 MLOps 방법론을 포함하여 원프레딕트만의 정형/반정형/비정형 데이터 프로세싱 방법에 적합한 데이터 플랫폼을 개발합니다\n- 상호존중을 바탕으로 자유로운 의견개진을 통해 더 나은 의사결정을 하는 팀입니다.\n- 실패를 두려워하지 않고 주어진 환경에 맞추어 도전적으로 시도하며 빠르게 성장하는 팀을 목표로 합니다.\n\n\n*.Data Scientist는,\n? 쿠버네티스 상에서의 데이터 플랫폼 개발/구축/운영 업무를  합니다.\n    - Object Storage를 활용한 Lakehouse기반의 데이터 저장소 구축/운영\n    - RDB(PostgreSQL), NoSQL(ScyllaDB, Cassandra), Column Oriented DB(Clickhouse, TimescaleDB), Vector DB(ChromaDB), GraphDB(Neo4j)\n? 효율적인 데이터 저장/로드를 위한 시스템 구축/운영 업무를 합니다.\n? 분산 처리 프레임워크를 사용하여 효율적인 정형/비정형 데이터 배치 프로세싱 로직을 개발합니다.\n? 배치 프로세스 워크 플로우 관리를 위한 DAG 구축/운영 업무를 합니다.\n? 데이터 관리 효율화를 위한 데이터 카탈로그 구축/운영 업무를 합니다.\n\n\n* 이런 분이 필요해요!\n- 전문연구요원\n\n\n* 이런 경험이 있으면 더 좋아요!\n- 쿠버네티스 상에서 데이터 플랫폼 개발/구축/운영 경험이 있으신 분\n- Cython, Numba, JAX 등을 이용한 연산 최적화 경험이 있으신 분\n- Ray, Dask, Spark와 같은 분산 시스템 구축/운영 경험이 있으신 분 \n- Agile 업무 문화(Sprint, Scrum)를 경험해보신 분\n\n\n*.Data Platform Engineer에 지원하고 싶다면 아래의 서류를 제출해 주세요.\n1.  이력서\n2. 서류 통과 시 사전과제 추후 안내 예정"
+}

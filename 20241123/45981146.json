@@ -1,0 +1,13 @@
+{
+    "s3 url path": null,
+    "site": "jobkorea",
+    "id": "45981146",
+    "collection_date": "2024-11-23",
+    "deadline": "2024-12-15",
+    "search": "데이터 엔지니어",
+    "company": "네이버웹툰",
+    "post title": "네이버웹툰\n관심기업\n관심기업 추가하고 채용소식 받기\n닫기\nData Engineer (경력)",
+    "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/45981146?Oem_Code=C1&logpath=1&stext=%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4&listno=131",
+    "image": [],
+    "text": "Data Engineer (경력)\n포지션 및 자격요건\nData Engineer \n담당업무\nㆍData Orchestration System\n  - DBT(Data Build Tool)를 활용한 데이터 가공 파이프라인을 운영 하며\n     자동화와 최적화 업무를 합니다.\n  - 데이터 웨어하우스에 저장된 데이터에 대한 안정성 보장을 위한 pre/post 검증 모듈을 개발합니다.\n  - 복잡한 데이터 처리를 위한 spark job을 개발합니다.\n  - 데이터에 대한 메타데이터 관리를 위한 어드민 환경을 운영합니다.\n  - 서비스별로 운영할 수 있는 SaaS(Software as a Service) 패키지를 지원합니다.\nㆍData Quality Management\n  - GX(great expectations) 기술을 활용하여 여러 데이터 소스에서 수집된 정보의 품질을 검사하고\n     결과를 산출하는 도구를 개발합니다.\n  - ELT 과정에서 발생할 수 있는 오류를 사전에 감지하여 데이터 품질 보장을 위한\n     대시보드를 운영합니다.\n\n필요역량 \nㆍ유관 업무 경력 3년 이상이신 분\nㆍHadoop 관련 기본 지식을 갖추고 있으며, 분산 환경에서 대용량 데이터 처리 경험이 있으신 분\nㆍ분산 처리 엔진(Spark, Hive, Impala, Trino 등)을 활용한 데이터 처리 경험이 있으신 분\nㆍJava / Python 언어 개발 경험과 프로그래밍 기본 지식을 가지신 분\nㆍAirflow 운영 경험이 있으신 분\nㆍKubernetes 기반 개발 경험이 있으신 분\n\n우대사항\nㆍ글로벌 데이터 처리 경험이 있으신 분 \nㆍDbt, trino-hive를 활용한 ETL 경험이 있으신 분\nㆍSpark를 활용한 대용량 데이터 처리 경험이 있으신 분\nㆍGX(great expectations) 활용 경험이 있으신 분\nㆍMSA(Microservice Architecture) 아키텍처 운영 경험이 있으신 분\nㆍ성능 최적화 및 문제 해결에 즐거움을 느끼시는 분\nㆍ데이터 분석에 관심이 많으신 분\nㆍVue, React 기반 Frontend 개발 경험이 있으신 분\n\n기타사항\nㆍ접수기간 : 2024.11.20 ~ 2024.12.15 (23:59)\nㆍ접수방법 : 당사 채용 홈페이지 참조\nㆍ자세한 상세요강은 반드시 채용 홈페이지에서 직접 확인해 주시기 바랍니다.\n\n\n   기업 채용 홈페이지 바로가기 click"
+}
